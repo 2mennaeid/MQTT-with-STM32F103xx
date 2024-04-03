@@ -1,0 +1,2 @@
+../Core/Src/MQTT.c:16:6:MQTT_Connect	24	static
+../Core/Src/MQTT.c:50:6:MQTT_Publish	32	static
